@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AccessibilityTestSuite">
+    <test name="AccessibilityTests">
+        <classes>
+			<class name="Ally.adaTest"/>
+        </classes>
+    </test>
+</suite>
